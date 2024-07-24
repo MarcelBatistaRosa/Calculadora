@@ -1,0 +1,14 @@
+C:\Users\mbama\OneDrive\Documentos\CURSOS\Mentoring\ProjetoCalculadora\ProjetoCalculadora\bin\Debug\net8.0\ProjetoCalculadora.exe
+C:\Users\mbama\OneDrive\Documentos\CURSOS\Mentoring\ProjetoCalculadora\ProjetoCalculadora\bin\Debug\net8.0\ProjetoCalculadora.deps.json
+C:\Users\mbama\OneDrive\Documentos\CURSOS\Mentoring\ProjetoCalculadora\ProjetoCalculadora\bin\Debug\net8.0\ProjetoCalculadora.runtimeconfig.json
+C:\Users\mbama\OneDrive\Documentos\CURSOS\Mentoring\ProjetoCalculadora\ProjetoCalculadora\bin\Debug\net8.0\ProjetoCalculadora.dll
+C:\Users\mbama\OneDrive\Documentos\CURSOS\Mentoring\ProjetoCalculadora\ProjetoCalculadora\bin\Debug\net8.0\ProjetoCalculadora.pdb
+C:\Users\mbama\OneDrive\Documentos\CURSOS\Mentoring\ProjetoCalculadora\ProjetoCalculadora\obj\Debug\net8.0\ProjetoCalculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mbama\OneDrive\Documentos\CURSOS\Mentoring\ProjetoCalculadora\ProjetoCalculadora\obj\Debug\net8.0\ProjetoCalculadora.AssemblyInfoInputs.cache
+C:\Users\mbama\OneDrive\Documentos\CURSOS\Mentoring\ProjetoCalculadora\ProjetoCalculadora\obj\Debug\net8.0\ProjetoCalculadora.AssemblyInfo.cs
+C:\Users\mbama\OneDrive\Documentos\CURSOS\Mentoring\ProjetoCalculadora\ProjetoCalculadora\obj\Debug\net8.0\ProjetoCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\mbama\OneDrive\Documentos\CURSOS\Mentoring\ProjetoCalculadora\ProjetoCalculadora\obj\Debug\net8.0\ProjetoCalculadora.dll
+C:\Users\mbama\OneDrive\Documentos\CURSOS\Mentoring\ProjetoCalculadora\ProjetoCalculadora\obj\Debug\net8.0\refint\ProjetoCalculadora.dll
+C:\Users\mbama\OneDrive\Documentos\CURSOS\Mentoring\ProjetoCalculadora\ProjetoCalculadora\obj\Debug\net8.0\ProjetoCalculadora.pdb
+C:\Users\mbama\OneDrive\Documentos\CURSOS\Mentoring\ProjetoCalculadora\ProjetoCalculadora\obj\Debug\net8.0\ProjetoCalculadora.genruntimeconfig.cache
+C:\Users\mbama\OneDrive\Documentos\CURSOS\Mentoring\ProjetoCalculadora\ProjetoCalculadora\obj\Debug\net8.0\ref\ProjetoCalculadora.dll
