@@ -5,8 +5,8 @@ Necessidade
 Criar uma calculadora com as 4 operações básicas, adição, subtração, multiplicação e divisão. 
 
 Requisitos 
-Entrada com 2 números 
-Saída com cada operação conforme o ex.: x+y=z 
+Entrada com 2 números e informar o tipo de operação
+Saída com cada operação conforme o ex.: x+y=z
 Salvar os resultados 
 Possibilidade de consultar os resultados 
 Programa não deve ser finalizado até que o usuário confirme a finalização 
@@ -50,4 +50,4 @@ Informar a operação (Adição, Subtração, Multiplicação, Divisão)
 
 Saída: 
 X + Y = Z (Sinal conforme a operação) 
-MemoResult [0] = Adição (aplicar para todas as operações) 
+MemoResult [0] = Adição (aplicar para todas as operações que foram calculadas) 
