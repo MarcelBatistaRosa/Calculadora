@@ -73,7 +73,7 @@ namespace ProjetoCalculadoraV1
             {
                     Console.WriteLine(item);                  
             }
-
+             Console.WriteLine();
              Console.WriteLine("Obrigado"); 
         } 
 
