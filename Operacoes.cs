@@ -14,8 +14,7 @@ namespace ProjetoCalculadoraV1
 
         public double Adicao()
         {
-            double a = X + Y;
-            return a;
+            return X + Y;
         }
 
         public double Subtracao()
