@@ -72,7 +72,10 @@ namespace ProjetoCalculadoraV1
             foreach (double item in Result)
             {
                     Console.WriteLine(item);                  
-            }          
-        }  
+            }
+
+             Console.WriteLine("Obrigado"); 
+        } 
+
     }
 }
