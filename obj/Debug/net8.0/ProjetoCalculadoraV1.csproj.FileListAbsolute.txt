@@ -12,3 +12,4 @@ C:\Users\mbama\OneDrive\Documentos\CURSOS\Mentoring\ProjetoCalculadora\ProjetoCa
 C:\Users\mbama\OneDrive\Documentos\CURSOS\Mentoring\ProjetoCalculadora\ProjetoCalculadora\obj\Debug\net8.0\ProjetoCalculadoraV1.pdb
 C:\Users\mbama\OneDrive\Documentos\CURSOS\Mentoring\ProjetoCalculadora\ProjetoCalculadora\obj\Debug\net8.0\ProjetoCalculadoraV1.genruntimeconfig.cache
 C:\Users\mbama\OneDrive\Documentos\CURSOS\Mentoring\ProjetoCalculadora\ProjetoCalculadora\obj\Debug\net8.0\ref\ProjetoCalculadoraV1.dll
+C:\Users\mbama\OneDrive\Documentos\CURSOS\Mentoring\ProjetoCalculadora\ProjetoCalculadora\obj\Debug\net8.0\ProjetoCalculadoraV1.sourcelink.json
